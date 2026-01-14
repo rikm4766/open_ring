@@ -8,6 +8,13 @@
 
 open Ring overview image  
 
+## Minimum System Requirements
+
+- **Operating System:** Windows 11 (64-bit)
+- **Memory (RAM):** 8 GB
+- **Bluetooth:** Latest Bluetooth driver installed
+
+
 # Steps To Run
 
 ### 1. Turn Off the Device Switch 
