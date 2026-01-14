@@ -31,3 +31,6 @@ For uploading the Code please follow the instruction Video Below
 ### 6. Follow the Video below to collect the raw data from OPEN-RING.
 
 [Open Ring Raw Data Collection](https://drive.google.com/file/d/1l5skFOcEXKjs__w9qkN38sToBGDwCzlI/view?usp=drivesdk)
+
+## Find Out More:
+[Readme](./readme.md)

@@ -4,7 +4,7 @@ This Ring helps to detect real time human acivity gesture
 
 # Overview
 
-![overview](/assets/overview.png)
+![overview](./assets/ring_overview.jpeg)
 
 This is the structure open ring. the switch is used to turn on and off the ring . the charging port is the magnetic port used to for charging 
 ! always used low watt 5v Charger.
