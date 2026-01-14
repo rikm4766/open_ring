@@ -38,7 +38,7 @@ The majority of the embedded system code is written in the C language. For the c
 
 For The Detailed explanation watch out the videos:
 
-[Flashing Using the ESP_IDF](https://youtu.be/VlWCV5VcAak?si=zWQaCSXGKhxiqdw)
+[Flashing Using the ESP_IDF](https://youtu.be/VlWCV5VcAak?si=apgle1hnOAcECXP0)
 
 
 
