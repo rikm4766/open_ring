@@ -21,11 +21,11 @@ This is the structure open ring. the switch is used to turn on and off the ring 
 
 # Safe Charging Method
 
-![safe charger](/assets/charging.png)
+![safe charger](/assets/safe_charge.png)
 
 # Circuit Diagram
-
-![circuit_diagram](/assets/circuit_diagram.png)
+![alt text](image.png)
+![circuit_diagram](/assets/ckt_dgm.png)
 
 # Data 
 
@@ -249,3 +249,7 @@ for the details find out the below links
 # Model trainning
 
 Source Code
+
+# Find Out the Manual
+
+[Manual](./manual.md)
